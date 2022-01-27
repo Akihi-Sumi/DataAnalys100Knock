@@ -6,7 +6,7 @@
 <br>
 <br>
 
-《 データ一覧 》
+《 データ一覧 》<br>
 customer_master.csv : 顧客データ<br>
 item_master.csv : 商品データ<br>
 transaction_1.csv : 購入明細データ<br>
